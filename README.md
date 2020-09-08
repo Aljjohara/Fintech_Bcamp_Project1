@@ -10,7 +10,9 @@
 ## Summary: 
 - This project has two seperate but interliked analysis of protfolio constructions. 
 ## A. Monte Carlo Simulation: 
-- Monte Carlo simulation involves using random number generators to simulate random effects. Simulating a historical prices for many times allows us to measure the variation just as we would if we took many samples of a real event. In this project we are using 30 years historical data to analyze risk-return pattern based on the user's desired portfolio. 
+- Monte Carlo simulation involves using random number generators to simulate random effects. 
+- Simulating a historical prices for many times allows us to measure the variation just as we would if we took many samples of a real event. 
+- In this project we are using 30 years historical data to analyze risk-return pattern based on the user's desired portfolio. 
 
 ## B. Portfolio Optimization: 
 - Portfolio optimization is the method of selecting the best performing portfolio, out of the set of all portfolios being considered based on the amount of investment in each stock. Our project would select that portfolio which yeilds the highest sharpe ratio out of 5000 seperate portfolio meaning the highest expected return for desired level of risk.
