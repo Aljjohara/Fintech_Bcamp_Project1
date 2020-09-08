@@ -1,8 +1,6 @@
-<<<<<<< HEAD:README.md
+
 # # Fintech BootCamp Project 1
  #   **Monte-Carlo Simulation and Portfolio Optimization**
-
-![](https://github.com/blueprint99/Fintech_Bcamp_Project1/blob/MishraSubash-patch-1/images/Overview%20Images.png.png)
 
 ## Prepared By: 
   * **Kavin Minchala**
