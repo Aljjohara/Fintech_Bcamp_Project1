@@ -12,7 +12,7 @@
 ## A. Monte Carlo Simulation: 
 - Monte Carlo simulation involves using random number generators to simulate random effects. Simulating a historical prices for many times allows us to measure the variation just as we would if we took many samples of a real event. In this project we are using 30 years historical data to analyze risk-return pattern based on the user's desired portfolio. 
 
-## B. Portfolio Optimization : 
+## B. Portfolio Optimization: 
 - Portfolio optimization is the method of selecting the best performing portfolio, out of the set of all portfolios being considered based on the amount of investment in each stock. Our project would select that portfolio which yeilds the highest sharpe ratio out of 5000 seperate portfolio meaning the highest expected return for desired level of risk.
 
 ## Purpose of Project: 
@@ -32,7 +32,7 @@
 ### Alpaca
 - We used Alpaca to get stock prices 
 
-## Timeframe :
+## Timeframe:
 - In the first part of the project, we run numerious( user can opt any number of simulations) Monte-Carlo simulations using 30 years of historical data to predict risk-return tradeoff and price flactuations of stocks in the portfolio.
 
 ## Questions and Data : 
@@ -54,7 +54,7 @@
 - We locate and return the investment weight embeded in the best performancing portfolio which means the portfolio with highest sharpe-ratio among 5000 possibilities. We call it as the most possible optimized portfolio. 
 
 
-## Summary and Conclusion : 
+## Summary and Conclusion: 
 - our model has succesfully analyzed the risk-return tradeoff between stocks and forecasted future market prices. 
 - the Portfolio optimization model helps the user to select the best portfolio.
 - Both Monte-Carlo simulation and Portfolio Optimization plays a considerable role within a strategic planning to predict the furure stocks as well as to get best performing portfolio so that investors can possibly beat the market. 
