@@ -1,6 +1,4 @@
-
-# # Fintech BootCamp Project 1
- #   **Monte-Carlo Simulation and Portfolio Optimization**
+ ## Monte-Carlo Simulation and Portfolio Optimization
 
 ## Prepared By: 
 - Kavin Minchala
