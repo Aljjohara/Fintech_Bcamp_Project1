@@ -56,7 +56,7 @@
 
 ## Summary and Conclusion: 
 - Our model has succesfully analyzed the risk-return tradeoff between stocks and forecasted future market prices. 
-- The Portfolio optimization model helps the user to select the best portfolio.
+- The portfolio optimization model helps the user to select the best portfolio.
 - Both Monte-Carlo simulation and Portfolio Optimization plays a considerable role within a strategic planning to predict the furure stocks as well as to get best performing portfolio so that investors can possibly beat the market. 
 
   
