@@ -42,9 +42,10 @@
 * Can Users construct their own portfolio?
 * Does portfolio optimization means neutral stragegy?
 
-## Modeling and calculations: 
+## Modeling and Calculations: 
 ##  A. Monte-Carlo Simualtion: 
-- We designed the project to fulfill user desire to construct protfolio. User can input any stock index of listed companies in the input panel, opt out timeframe (by default it uses 30years) and number of simulations. Once user completed inputs, two seperate Monte-Carlo simulations will run, one for stocks portfolio and other for benckmark. 
+- User can input any stock index of listed companies in the input panel, opt out timeframe (by default it uses 30years) and number of simulations. 
+- Once user completed inputs, two seperate Monte-Carlo simulations will run, one for stocks portfolio and other for benckmark. 
 
 ## B. Portfolio Optimization: 
 ![](https://raw.githubusercontent.com/blueprint99/Fintech_Bcamp_Project1/MishraSubash-patch-1/images/portfolio.png)
